@@ -12,4 +12,4 @@ RUN apk add --no-cache xdg-utils lynx curl \
  && apk del curl
  
 EXPOSE 11301
-CMD ["./aurora"]
+CMD ["/opt/aurora/aurora"]
