@@ -1,0 +1,14 @@
+servers = []
+listen = "0.0.0.0:11301"
+version = 2.1
+
+[openpage]
+enabled = true
+
+[auth]
+enabled = true
+password = "password"
+username = "admin"
+
+[sample]
+storage =
