@@ -1,2 +1,2 @@
-# aurora-alpine
-Docker image for Aurora Beanstalkd Viewer on Alpine Linux
+# aurora
+Docker image for Aurora Beanstalkd console on Alpine Linux
